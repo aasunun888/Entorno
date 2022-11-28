@@ -5,5 +5,8 @@ public class holaMundo {
 
 System.out.println("heello mundo");
 	}
+public static void imprimeSaludo() { 
+System.out.println(“Hei”);	
+}
 
 }
